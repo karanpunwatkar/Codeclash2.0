@@ -17,15 +17,13 @@ L-GovTrack is a full-stack web application designed to streamline the process of
 
 ### 🎯 Submit Complaint (Frontend)
 
-![Complaint Form](screenshots/form.png)
+
 
 ### 📋 View Complaints
 
-![Complaint List](screenshots/list.png)
 
 ### 🔧 Status Management (Admin)
 
-![Status Update](screenshots/status.png)
 
 ---
 
