@@ -17,14 +17,14 @@ L-GovTrack is a full-stack web application designed to streamline the process of
 ## 📸 Screenshots
 
 ### 🎯 Submit Complaint (Frontend)
-
+![Image](https://github.com/user-attachments/assets/af5ae273-d779-4f99-86d3-be9680185b80)
 
 
 ### 📋 View Complaints
-
+![Image](https://github.com/user-attachments/assets/3fa5915f-6bcd-4a92-a779-9239cbf99857)
 
 ### 🔧 Status Management (Admin)
-
+![Image](https://github.com/user-attachments/assets/c4d30045-4550-4826-89f0-b89100ed32b3)
 
 ---
 
