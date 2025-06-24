@@ -8,7 +8,7 @@ L-GovTrack is a full-stack web application designed to streamline the process of
 
 ## 🌐 Live Demo
 
-> 🔗 Frontend: [https://l-govtrack.netlify.app/](#)  
+> 🔗 Frontend: https://l-govtrack.netlify.app/
 > 🛠️ Backend: [https://l-govtrack-api.up.railway.app](#)
 
 ---
