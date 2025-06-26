@@ -1,4 +1,4 @@
-# 🛰️ L-GovTrack – Civic Issue Reporting System
+#  L-GovTrack – Civic Issue Reporting System
 
 L-GovTrack is a full-stack web application designed to streamline the process of reporting local issues (like potholes, broken lights, water problems, etc.) to government authorities. Citizens can report complaints with optional location, photo, and email, while admins can track and update complaint statuses in real-time.
 
